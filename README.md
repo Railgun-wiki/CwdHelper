@@ -1,0 +1,1 @@
+Use `!!cwd` in Minecraft to get help.
